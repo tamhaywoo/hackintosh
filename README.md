@@ -33,7 +33,7 @@
 |---|---|
 |主板|MSI B250M PRO|
 |CPU|Intel i5 7500|
-|内存|GLOWAY 2666Mhz 16G X 2|
+|内存|GLOWAY 2400Mhz 16G X 2|
 |显卡|GeForce GTX 650 Ti|
 |引导工具|Clover|
 |机型设置|iMac18,2|
